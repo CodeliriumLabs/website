@@ -1,4 +1,4 @@
-import '/Volumes/T7 Shield/codeliriumweb/src/app/globals.css'
+import '../app/globals.css'
 
 export const metadata = {
   title: 'Codelirium Labs',
